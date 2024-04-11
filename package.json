@@ -1,0 +1,12 @@
+{
+  "name": "async-generator",
+  "version": "0.1.0-alpha",
+  "description": "Asynchronous functions to use generators with async/await syntax 💖",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node tests"
+  },
+  "keywords": [],
+  "author": "Ashlynn \"Void Voxel\" Juniper",
+  "license": "MPL-2.0"
+}
