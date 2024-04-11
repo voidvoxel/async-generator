@@ -1,6 +1,6 @@
 {
-  "name": "async-generator",
-  "version": "0.1.0-alpha",
+  "name": "@voidvoxel/async-generator",
+  "version": "0.1.0-alpha.1",
   "description": "Asynchronous functions to use generators with async/await syntax 💖",
   "main": "src/index.js",
   "scripts": {
